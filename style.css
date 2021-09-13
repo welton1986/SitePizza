@@ -68,7 +68,7 @@ main {
     margin-bottom: 40px;
 }
 .imagem {
-    background-image: url(images/Logo_Pizza.png);
+    background-color: red;
     background-size: cover;
     background-position: center;
     height: 100px;
