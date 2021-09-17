@@ -444,4 +444,11 @@ h1 {
     .pizzaInfo--cancelMobileButton {
         display:block;
     }
+
+    .topo {
+      display: none;
+    }
+    .imagem {
+        display: none;
+    }
 }
